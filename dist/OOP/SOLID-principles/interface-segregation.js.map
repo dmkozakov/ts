@@ -1,0 +1,1 @@
+{"version":3,"file":"interface-segregation.js","sourceRoot":"","sources":["../../../src/OOP/SOLID-principles/interface-segregation.ts"],"names":[],"mappings":"AAAA,uEAAuE;AAUvE,MAAM,eAAe;IACnB,SAAS;QACP,OAAO,cAAc,CAAC;IACxB,CAAC;IAED,SAAS;QACP,OAAO,cAAc,CAAC;IACxB,CAAC;CACF;AAED,MAAM,kBAAkB;IACtB,SAAS;QACP,OAAO,2BAA2B,CAAC;IACrC,CAAC;CACF"}
