@@ -1,1 +1,0 @@
-{"version":3,"file":"encapsulation.js","sourceRoot":"","sources":["../../src/OOP/encapsulation.ts"],"names":[],"mappings":"AAAA,MAAM,OAAO;IACH,eAAe;QACrB,OAAO,WAAW,CAAC;IACrB,CAAC;IAEM,cAAc;QACnB,OAAO,IAAI,CAAC,eAAe,EAAE,CAAC;IAChC,CAAC;CACF"}

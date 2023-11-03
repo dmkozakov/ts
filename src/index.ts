@@ -1,1 +1,4 @@
-import "./OOP";
+// import "./OOP";
+// import "./classes";
+// import "./interfaces";
+import "./UML";
